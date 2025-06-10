@@ -4,9 +4,17 @@ Some Macro scripts wrote for EldenRing. This project utilizes AutoHotkey to auto
 
 **Tools Used:**
 
-* [AutoHotkey](https://www.autohotkey.com/) - YOU SHOULD INSTALL THIS FOR THE MACRO TO WORK CORRECTLY.
+* [AutoHotkey](https://www.autohotkey.com/)
 * GitHub Copilot
 * Youtube Tutorial: [https://www.youtube.com/watch?v=J8QHHxVv3Gw&t=1036s](https://www.youtube.com/watch?v=J8QHHxVv3Gw&t=1036s)
+
+## Usage
+
+1. Install [AutoHotkey](https://www.autohotkey.com/).
+
+2. Double click `EldenRingAHK/Elden Ring.ahk` to run macro script.
+
+3. Press Hotkey in game. It should work fine.
 
 ---
 
