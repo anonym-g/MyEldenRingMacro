@@ -2,12 +2,6 @@
 
 Some Macro scripts wrote for EldenRing. This project utilizes AutoHotkey to automate various in-game actions to improve efficiency and gameplay experience.
 
-**Tools Used:**
-
-* [AutoHotkey](https://www.autohotkey.com/)
-* GitHub Copilot
-* Youtube Tutorial: [https://www.youtube.com/watch?v=J8QHHxVv3Gw&t=1036s](https://www.youtube.com/watch?v=J8QHHxVv3Gw&t=1036s)
-
 ## Usage
 
 1. Install [AutoHotkey](https://www.autohotkey.com/).
@@ -68,4 +62,10 @@ This function provides a reliable way to quit to the main menu.
     * Selects "Quit to Main Menu" (`E`). 
     * Moves the cursor to "Yes" on the confirmation dialogue (`Left Arrow`). 
 3.  **Confirms Exit:** It calls the `Confirm()` function, which rapidly presses the 'E' key multiple times to finalize the exit. 
-4.  **Restores Input:** It re-enables user input once the sequence is complete. 
+4.  **Restores Input:** It re-enables user input once the sequence is complete.
+
+## Tools Used:
+
+* [AutoHotkey](https://www.autohotkey.com/)
+* GitHub Copilot
+* Youtube Tutorial: [https://www.youtube.com/watch?v=J8QHHxVv3Gw&t=1036s](https://www.youtube.com/watch?v=J8QHHxVv3Gw&t=1036s)
